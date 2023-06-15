@@ -1,0 +1,17 @@
+C:\Users\Maria das Graças\Desktop\Vitor\Faculdade\3° Periodo\Humberto\2° Bimestre\API\Desafio 1\Desafio 1\bin\Debug\net6.0\Desafio 1.exe
+C:\Users\Maria das Graças\Desktop\Vitor\Faculdade\3° Periodo\Humberto\2° Bimestre\API\Desafio 1\Desafio 1\bin\Debug\net6.0\Desafio 1.deps.json
+C:\Users\Maria das Graças\Desktop\Vitor\Faculdade\3° Periodo\Humberto\2° Bimestre\API\Desafio 1\Desafio 1\bin\Debug\net6.0\Desafio 1.runtimeconfig.json
+C:\Users\Maria das Graças\Desktop\Vitor\Faculdade\3° Periodo\Humberto\2° Bimestre\API\Desafio 1\Desafio 1\bin\Debug\net6.0\Desafio 1.dll
+C:\Users\Maria das Graças\Desktop\Vitor\Faculdade\3° Periodo\Humberto\2° Bimestre\API\Desafio 1\Desafio 1\bin\Debug\net6.0\Desafio 1.pdb
+C:\Users\Maria das Graças\Desktop\Vitor\Faculdade\3° Periodo\Humberto\2° Bimestre\API\Desafio 1\Desafio 1\obj\Debug\net6.0\Desafio 1.csproj.AssemblyReference.cache
+C:\Users\Maria das Graças\Desktop\Vitor\Faculdade\3° Periodo\Humberto\2° Bimestre\API\Desafio 1\Desafio 1\obj\Debug\net6.0\Desafio 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maria das Graças\Desktop\Vitor\Faculdade\3° Periodo\Humberto\2° Bimestre\API\Desafio 1\Desafio 1\obj\Debug\net6.0\Desafio 1.AssemblyInfoInputs.cache
+C:\Users\Maria das Graças\Desktop\Vitor\Faculdade\3° Periodo\Humberto\2° Bimestre\API\Desafio 1\Desafio 1\obj\Debug\net6.0\Desafio 1.AssemblyInfo.cs
+C:\Users\Maria das Graças\Desktop\Vitor\Faculdade\3° Periodo\Humberto\2° Bimestre\API\Desafio 1\Desafio 1\obj\Debug\net6.0\Desafio 1.csproj.CoreCompileInputs.cache
+C:\Users\Maria das Graças\Desktop\Vitor\Faculdade\3° Periodo\Humberto\2° Bimestre\API\Desafio 1\Desafio 1\obj\Debug\net6.0\Desafio 1.dll
+C:\Users\Maria das Graças\Desktop\Vitor\Faculdade\3° Periodo\Humberto\2° Bimestre\API\Desafio 1\Desafio 1\obj\Debug\net6.0\refint\Desafio 1.dll
+C:\Users\Maria das Graças\Desktop\Vitor\Faculdade\3° Periodo\Humberto\2° Bimestre\API\Desafio 1\Desafio 1\obj\Debug\net6.0\Desafio 1.pdb
+C:\Users\Maria das Graças\Desktop\Vitor\Faculdade\3° Periodo\Humberto\2° Bimestre\API\Desafio 1\Desafio 1\obj\Debug\net6.0\Desafio 1.genruntimeconfig.cache
+C:\Users\Maria das Graças\Desktop\Vitor\Faculdade\3° Periodo\Humberto\2° Bimestre\API\Desafio 1\Desafio 1\obj\Debug\net6.0\ref\Desafio 1.dll
+C:\Users\Maria das Graças\Desktop\Vitor\Faculdade\3° Periodo\Humberto\2° Bimestre\API\Desafio 1\Desafio 1\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Maria das Graças\Desktop\Vitor\Faculdade\3° Periodo\Humberto\2° Bimestre\API\Desafio 1\Desafio 1\obj\Debug\net6.0\Desafio 1.csproj.CopyComplete
